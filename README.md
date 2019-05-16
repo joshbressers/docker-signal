@@ -1,6 +1,8 @@
 # docker-signal
 Container for running signal-desktop
 
+Please don't use this repo anymore, use signal from flatpak, it's properly maintained.
+
 ## Build with
 docker build -t signal signal
 
